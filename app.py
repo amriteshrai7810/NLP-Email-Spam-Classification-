@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Atul salle apni marwa')
+st.title('atul <3 Deependar')
 
 col1, col2 = st.columns(2)
 with col1:
