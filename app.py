@@ -13,6 +13,6 @@ with col2:
     st.header('Mai hu jaise ek jangli bhalu')
 
 st.header('Mai hu atul aloo mera bhai hai jungle ka bhaloo mera dost hai lohith kalu mai khud bhi hu bada chalu')
-st.subheader('hello')
+st.subheader('atul kutta hai bsdk')
 
 
