@@ -4,7 +4,12 @@ st.title('Atul salle apni marwa')
 
 col1, col2 = st.columns(2)
 with col1:
-    st.image('https://unsplash.com/photos/WFH4kdnxKbw')
+    st.image('Untitled.png')
+    st.header('Mai hu atul aloo')
+    st.header('Mera dost hai lohith kalu')
 
 with col2:
-    st.image('https://unsplash.com/photos/XApv6X0ZIEo')
+    st.image('Untitled3.png')
+    st.header('Mai hu jaise ek jangli bhalu')
+
+st.header('Mai hu atul aloo mera bhai hai jungle ka bhaloo mera dost hai lohith kalu mai khud bhi hu bada chalu')
