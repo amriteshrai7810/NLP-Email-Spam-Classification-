@@ -18,6 +18,9 @@ st.subheader('atul kutta hai bsdk')
 st.sidebar.title('Menu')
 st.sidebar.markdown('-Home'
                     '-Menu'
-                    '-Contact')
+                    '-Contact'
+                    '-Add'
+                    '-add'
+                    )
 
 
