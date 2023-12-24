@@ -21,7 +21,7 @@ def transform_text(text):
     text_d2 = text_d1[:]
     text_d1.clear()
 
-    # Remove punctuation and stopwords
+    # Remove punctuation and stopword
     for i in text_d2:
         if i not in stopwords.words('english') and i not in string.punctuation:
             text_d1.append(i)
