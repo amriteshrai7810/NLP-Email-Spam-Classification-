@@ -1,1 +1,0 @@
-# Sample git project nothing useful
